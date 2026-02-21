@@ -22,5 +22,5 @@ def fibo(n, dct={}):
 # print(fibo(10))
 
 n = 5
-fib = 0 * (n + 1)
+fib = [0] * (n + 1)
 print(fib)
