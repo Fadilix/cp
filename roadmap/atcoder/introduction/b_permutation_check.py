@@ -17,4 +17,3 @@ for e in lst:
         exit(0)
 
 print("Yes")
-    
